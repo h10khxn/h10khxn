@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on multiple projects using HTML, JavaScript, CSS, Python, C#,Java<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with learning frameworks for certain languages<br>🌱 I’m currently learning react, vue<br>💬 Ask me about my skills<br>⚡ Fun fact
+# Hello! I am a software engineering student currently in my second year. Here you will find projects I have created/worked on. Feel free to have a look :).
 
 
 # 💻 Tech Stack:
