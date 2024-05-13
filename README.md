@@ -1,4 +1,4 @@
-# Hello! I am a software engineering student currently in my second year. Here you will find projects I have created/worked on. Feel free to have a look :).
+# Hello! I am a software engineering student currently in my third year. Here you will find projects I have created/worked on. Feel free to have a look :).
 
 
 # 💻 Tech Stack:
