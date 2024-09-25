@@ -1,4 +1,4 @@
-# Hello! I am a software engineering student currently in my third year. Here you will find projects I have created/worked on. Feel free to have a look :).
+# Hello! I am a software engineering student currently in my third year.
 
 
 # 💻 Tech Stack:
@@ -14,4 +14,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=h10khxn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
