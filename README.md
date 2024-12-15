@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hamdan Khan, a third-year Software Engineering student at Ontario Tech University, passionate about problem-solving and creative software solutions. My technical skills span across languages like Java, JavaScript, Python, and C++, with experience in frameworks and tools such as Flask, React, MySQL, and GitHub.
 
-🔍 I have developed several  projects, including a Hospital Laboratory System, a 2D Tower Defense Game, and a Pokémon-Themed Todo List, where I applied my knowledge in object-oriented programming, REST APIs, agile development, and user-centered design. My hands-on approach has consistently improved engagement and efficiency in these projects.
+🔍 I have developed several  projects, where I applied my knowledge in object-oriented programming, REST APIs, agile development, and user-centered design. My hands-on approach has consistently improved engagement and efficiency in these projects.
 
 💼 In addition to my studies, I have professional experience as a Lead Sales Associate, where I honed my collaborative and analytical skills in a high-energy team environment.
 
