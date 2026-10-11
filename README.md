@@ -7,6 +7,7 @@
 💡 I'm currently expanding my knowledge in SDLC, machine learning, and web development, with a keen interest in CI/CD and software testing. I enjoy exploring innovative technologies and applying them to real-world problems.
 
 🌟 Feel free to connect with me or check out my projects on GitHub!
+PREV @ HYDRO ONE
 
 
 
